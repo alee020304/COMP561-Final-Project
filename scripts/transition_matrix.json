@@ -1,0 +1,50 @@
+{
+    "header": {
+        "header": 0.9999113867966327,
+        "time_delta": 8.861320336730173e-5,
+        "on": 0,
+        "note": 0,
+        "velocity": 0,
+        "intergenic": 0
+    },
+    "time_delta": {
+        "header": 0,
+        "time_delta": 0,
+        "on": 1,
+        "note": 0,
+        "velocity": 0,
+        "intergenic": 0
+    },
+    "on": {
+        "header": 0,
+        "time_delta": 0,
+        "on": 0,
+        "note": 1,
+        "velocity": 0,
+        "intergenic": 0
+    },
+    "note": {
+        "header": 0,
+        "time_delta": 0,
+        "on": 0,
+        "note": 0,
+        "velocity": 1,
+        "intergenic": 0
+    },
+    "velocity": {
+        "header": 0,
+        "time_delta": 0,
+        "on": 0,
+        "note": 0,
+        "velocity": 0,
+        "intergenic": 1
+    },
+    "intergenic": {
+        "header": 0,
+        "time_delta": 0.0384615384615385,
+        "on": 0,
+        "note": 0,
+        "velocity": 0,
+        "intergenic": 0.9615384615384615
+    }
+}
