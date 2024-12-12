@@ -83,6 +83,4 @@ def viterbi(obs, trans, emission, initialProb, emission_key):
                 path[i-1] = 4
             i -= 1
     return path, viterbi_table
-
-def main():
     
